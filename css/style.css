@@ -1,0 +1,11 @@
+/* Google Fonts Noto Sans KR 전체 글꼴 적용 */
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    box-sizing: border-box;
+}
+
+/* 스타일 초기화 및 기본 설정 (추후 디자인 작업을 위한 빈 상태) */
+body {
+    margin: 0;
+    padding: 0;
+}
