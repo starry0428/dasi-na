@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* =========================================
    다시, 나 - 스타일 파일
    1일차: 구글 글꼴만 적용 (디자인은 2일차)
@@ -279,4 +280,16 @@ footer {
   #about p {
     font-size: 1.1rem;
   }
+=======
+/* Google Fonts Noto Sans KR 전체 글꼴 적용 */
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    box-sizing: border-box;
+}
+
+/* 스타일 초기화 및 기본 설정 (추후 디자인 작업을 위한 빈 상태) */
+body {
+    margin: 0;
+    padding: 0;
+>>>>>>> cc7c582e25ee7c9498318aaf351d63b1787f92de
 }
